@@ -1,95 +1,74 @@
-# Ivan Narvaez
+## Ivan Narvaez
 
-**📍 Location:** Washington, DC, USA  
-**📧 Email:** ivanrnarvaez@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/ivanrnarvaez](https://www.linkedin.com/in/ivanrnarvaez)  
-**🌐 GitHub:** [github.com/ivanrnarvaez](https://github.com/ivanrnarvaez)
-
----
-
-## 👨‍💻 Professional Summary
-
-Dynamic and highly motivated **Data Engineer** with robust experience in data management, analytics, and software engineering. Proven track record of designing and maintaining scalable solutions to enhance decision-making in international organizations. Currently completing a **Master’s in Data Science, Big Data, and Business Analytics**. Strong background in Azure, Databricks, ETL, and data governance tools like Collibra. Versatile, collaborative, and focused on data quality and innovation.
+🌍 Data Engineer • Cloud Technologist • Analytics Expert  
+📍 Based in Washington, DC — Working globally across LATAM & US  
+🎓 Currently completing a Master’s in Data Science, Big Data & Business Analytics  
+📫 [ivanrnarvaez@gmail.com](mailto:ivanrnarvaez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ivanrnarvaez/)
 
 ---
 
-## 🚀 Projects
+### 💼 What I Do
 
-### ⭐ **IADB - STAR Project**
-Implemented a financial risk data solution supporting IDB’s AAA rating.  
-- Integrated sources like SQL Server, Oracle, SAP, and Bloomberg into a centralized DataMart.  
-- Enabled advanced reporting with Tableau & Power BI.  
-- Led data ingestion and transformation across teams in the US and Mexico.
-
-### 🌐 **OAS - United Nations Interconnect API**
-Developed the first information-sharing tool between the OAS Human Rights Commission and the UN.  
-- Used RESTful APIs and .NET on a cloud infrastructure.  
-- Established secure and reliable data exchange channels.
+- 🚀 Build scalable ETL pipelines and data platforms using **Azure**, **Databricks**, and **SQL**
+- 📊 Deliver analytics & BI tools with **Power BI**, **Tableau**, and **Python**
+- 🔐 Implement data governance strategies ensuring quality and security
+- 🌎 Develop APIs and tools to connect international organizations and systems
 
 ---
 
-## 💼 Experience
+### 💻 Tech Stack
 
-### **Senior Consultant**  
-**Organization of American States** | Washington, DC | *Jan 2021 – Dec 2024*  
-- Built efficient ETL pipelines and managed data governance.  
-- Streamlined reporting via Azure and Databricks.  
-- Created REST APIs for data sharing and collaboration.
-
-### **Consultant**  
-**Inter-American Development Bank** | Washington, DC | *Aug 2014 – Sep 2020*  
-- Designed and maintained robust data repositories.  
-- Led teams in USA and LATAM to upgrade the QRM framework.  
-- Supported financial product modeling for risk assessment.
-
-### **System Analyst**  
-**Attorney General’s Office** | Quito, Ecuador | *Nov 2009 – Jul 2014*  
-- Digitalized national complaint data systems.  
-- Managed data visualization for legal decision-making.  
-- Trained 400+ users in new systems.
+<div display="flex">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Databricks-E35A0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+</div>
 
 ---
 
-## 🎓 Education
+### 📌 Projects
 
-**🎓 MA in Data Science, Big Data & Business Analytics**  
-*Complutense University of Madrid* – *Expected Aug 2025*
-
-**🎓 MA in Project Management**  
-*University La Salle, Ramon Llull, Spain* – *2017*
-
-**🎓 BSc in Computer Science and Information Systems**  
-*Pontifical Catholic University of Ecuador* – *2008*  
-Top 25% of class
+- **STAR Project (IADB)**: Built financial risk data systems using hybrid cloud and HPC to support AAA rating compliance.
+- **OAS API Gateway**: Developed RESTful APIs to connect the Human Rights Commission with the UN system.
+- **QRM Framework**: Led infrastructure upgrades for financial risk systems including disaster recovery architecture.
 
 ---
 
-## 🛠️ Technical Summary
+### 🎓 Education
 
-- **Languages:** C#, Python, PowerShell, JavaScript  
-- **Tools & Platforms:** Azure, Databricks, Tableau, Power BI, Git, Jenkins  
-- **Databases:** SQL, NoSQL, Oracle, SAP  
-- **Concepts:** ETL, Data Governance, CI/CD, Agile, Waterfall  
-- **APIs:** RESTful services, .NET integrations
+- 🧠 **M.A. Data Science, Big Data & Business Analytics** – *Complutense University of Madrid* (2025)  
+- 🧠 **M.A. Project Management** – *La Salle, Ramon Llull University*  
+- 💻 **B.Sc. Computer Science & Information Systems** – *Pontifical Catholic University of Ecuador*
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
-- **Azure AZ-900**, **DP-700** *(Expected Jun 2025)*  
-- **Certified Scrum Master** – Scrum Alliance  
-- **IBM Blockchain**, **ITIL**, **Georgetown Data Science**
-
----
-
-## 🌟 Extras
-
-- 💬 **Languages:** English (Fluent), Spanish (Native)  
-- 🧠 **Humanities:** Master’s in Biblical Studies – San Damaso University  
-- 🌍 **Leadership:** Elected Consultant Director, IADB Staff Association (500+ members)  
-- 🙌 **Community:** Volunteer teacher and youth coach in Quito, Ecuador
+- 📘 Azure Fundamentals (AZ-900)  
+- 📘 Azure Data Fundamentals (DP-700 – *Expected 2025*)  
+- 🧩 Certified Scrum Master – Scrum Alliance  
+- 🔗 IBM Blockchain Essentials  
+- 🧠 ITIL | Georgetown Data Science
 
 ---
 
-*Last updated: April 2025*
+### 📫 Connect with Me
 
+<div display="flex">
+  <a href="https://www.linkedin.com/in/ivanrnarvaez/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+### ⚡ Fun Fact
+
+I was elected Consultant Director of the IADB Staff Association Board representing over 500 professionals — and I still code with the same passion I started with in Quito.
+
+---
+
+*Want to collaborate or need a data-savvy partner for your project? Let's connect!*
