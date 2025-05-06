@@ -7,12 +7,12 @@
 
 ---
 
-### 💼 What I Do
+### 💼 What I Do ( and what you would find here...)
 
 - 🚀 Build scalable ETL pipelines and data platforms using **Azure**, **Databricks**, and **SQL**
-- 📊 Deliver analytics & BI tools with **Power BI**, **Tableau**, and **Python**
+- 📊 Deliver analytics with ML/AI & BI report examples with **Power BI**, **Tableau**, and **Python**
 - 🔐 Implement data governance strategies ensuring quality and security
-- 🌎 Develop APIs and tools to connect international organizations and systems
+- 🌎 REST APIs and tools to connect systems
 
 ---
 
@@ -39,7 +39,8 @@
 
 ### 🎓 Education
 
-- 🧠 **M.A. Data Science, Big Data & Business Analytics** – *Complutense University of Madrid* (2025)  
+- 🧠 **M.A. Data Science, Big Data & Business Analytics** – *Complutense University of Madrid* (2025)
+- 🧠 **Data Science** – *Georgetown University*
 - 🧠 **M.A. Project Management** – *La Salle, Ramon Llull University*  
 - 💻 **B.Sc. Computer Science & Information Systems** – *Pontifical Catholic University of Ecuador*
 
@@ -49,23 +50,14 @@
 
 - 📘 Azure Fundamentals (AZ-900)  
 - 📘 Azure Data Fundamentals (DP-700 – *Expected 2025*)  
-- 🧩 Certified Scrum Master – Scrum Alliance  
+- 🧩 Certified Scrum Master (CSM) – Scrum Alliance
+- 🧩 Certified Product Owner (CSPO) - Scrum Alliance
 - 🔗 IBM Blockchain Essentials  
-- 🧠 ITIL | Georgetown Data Science
+- 🧠 ITIL
 
 ---
 
-### 📫 Connect with Me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/ivanrnarvaez/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### ⚡ Fun Fact
+### ⚡⚡ Interesting Fact
 
 I was elected Consultant Director of the IADB Staff Association Board representing over 500 professionals — and I still code with the same passion I started with in Quito.
 
