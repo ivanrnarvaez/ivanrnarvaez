@@ -48,8 +48,8 @@
 
 ### 📜 Certifications
 
-- 📘 Azure Fundamentals (AZ-900)  
-- 📘 Azure Data Fundamentals (DP-700 – *Expected 2025*)  
+- 📘 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- 📘 Azure Fundamentals (AZ-900) 
 - 🧩 Certified Scrum Master (CSM) – Scrum Alliance
 - 🧩 Certified Product Owner (CSPO) - Scrum Alliance
 - 🔗 IBM Blockchain Essentials  
