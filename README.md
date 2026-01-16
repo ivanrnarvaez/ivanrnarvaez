@@ -1,8 +1,11 @@
 ## Ivan Narvaez
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
+![CSM](https://img.shields.io/badge/CSM-Certified%20ScrumMaster-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![CSPO](https://img.shields.io/badge/CSPO-Certified%20Scrum%20Product%20Owner-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 🌍 Data Engineer • Cloud Technologist • Analytics Expert  
 📍 Based in Washington, DC — Working globally across LATAM & US  
-🎓 Currently completing a Master’s in Data Science, Big Data & Business Analytics  
+🎓 Always learning new things and technologies  
 📫 [ivanrnarvaez@gmail.com](mailto:ivanrnarvaez@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ivanrnarvaez/)
 
 ---
@@ -20,8 +23,8 @@
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Databricks-E35A0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
